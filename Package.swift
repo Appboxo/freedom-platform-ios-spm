@@ -4,12 +4,12 @@
 import PackageDescription
 
 let package = Package(
-    name: "BoxoSDK",
+    name: "FreedomBoxoSDK",
     platforms: [
         .iOS(.v13)
     ],
     products: [
-        .library(name: "BoxoSDK", targets: ["BoxoSDK", "Lottie", "_BoxoSDKStub"])
+        .library(name: "FreedomBoxoSDK", targets: ["BoxoSDK", "Lottie", "_BoxoSDKStub"])
     ],
     targets: [
         .binaryTarget(

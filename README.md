@@ -2,9 +2,9 @@
 
 Add a package by selecting `File` → `Add Packages…` in Xcode’s menu bar.
 
-Search for the AppBoxoSDK using the repo's URL:
+Search for the FreedomBoxoSDK using the repo's URL:
     
-    https://github.com/Appboxo/boxo-ios-spm.git
+    https://github.com/Appboxo/freedom-platform-ios-spm.git
 
 
 Next, set the **Dependency Rule** to be `Up to Next Major Version`.
@@ -17,7 +17,7 @@ more about [Boxo SDK](https://docs.boxo.io)
 
 ## Dependencies
 
-Starting from version `1.27.4`, BoxoSDK uses [lottie-ios](https://github.com/airbnb/lottie-ios) version `4.6.0`.
+Starting from version `1.27.5`, BoxoSDK uses [lottie-ios](https://github.com/airbnb/lottie-ios) version `4.6.0`.
 
 
 ## License
