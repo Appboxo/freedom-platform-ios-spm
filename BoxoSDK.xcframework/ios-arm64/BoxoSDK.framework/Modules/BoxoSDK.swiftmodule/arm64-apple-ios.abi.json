@@ -7363,6 +7363,16 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BoxoSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "PaymentData",
         "printedName": "PaymentData",
@@ -8115,8 +8125,7 @@
         "objc_name": "PaymentData",
         "declAttributes": [
           "AccessControl",
-          "ObjC",
-          "RawDocComment"
+          "ObjC"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
         "inheritsConvenienceInitializers": true,
@@ -10769,6 +10778,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BoxoSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -10847,70 +10866,70 @@
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 314,
+      "offset": 353,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 553,
+      "offset": 592,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 622,
+      "offset": 661,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "StringLiteral",
-      "offset": 805,
+      "offset": 844,
       "length": 17,
       "value": "\"appboxo_ic_back\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 873,
+      "offset": 912,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 879,
+      "offset": 918,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 889,
+      "offset": 928,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 901,
+      "offset": 940,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1071,
+      "offset": 1110,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/AboutMiniAppTableViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1170,
+      "offset": 1209,
       "length": 5,
       "value": "false"
     },
@@ -11729,35 +11748,35 @@
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/ConfirmViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 567,
+      "offset": 596,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/ConfirmViewController.swift",
       "kind": "StringLiteral",
-      "offset": 682,
+      "offset": 711,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/ConfirmViewController.swift",
       "kind": "StringLiteral",
-      "offset": 770,
+      "offset": 799,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/ConfirmViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 843,
+      "offset": 872,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/ConfirmViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2237,
+      "offset": 2267,
       "length": 7,
       "value": "\"Allow\""
     },
@@ -11878,7 +11897,7 @@
       "kind": "StringLiteral",
       "offset": 357,
       "length": 8,
-      "value": "\"1.27.6\""
+      "value": "\"1.27.7\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/CustomEvent.swift",
@@ -11904,21 +11923,21 @@
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/FloatingActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 1030,
+      "offset": 1063,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/FloatingActionButtonsView.swift",
       "kind": "BooleanLiteral",
-      "offset": 654,
+      "offset": 687,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/FloatingActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 4164,
+      "offset": 4197,
       "length": 3,
       "value": "0.1"
     },
@@ -12037,105 +12056,105 @@
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 337,
+      "offset": 356,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 576,
+      "offset": 595,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 645,
+      "offset": 664,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "StringLiteral",
-      "offset": 828,
+      "offset": 847,
       "length": 17,
       "value": "\"appboxo_ic_back\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 896,
+      "offset": 915,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 902,
+      "offset": 921,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 912,
+      "offset": 931,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 924,
+      "offset": 943,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1094,
+      "offset": 1113,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1193,
+      "offset": 1212,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "StringLiteral",
-      "offset": 1337,
+      "offset": 1356,
       "length": 10,
       "value": "\"Settings\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "FloatLiteral",
-      "offset": 1505,
+      "offset": 1524,
       "length": 4,
       "value": "17.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1560,
+      "offset": 1579,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1620,
+      "offset": 1639,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SettingsTVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2150,
+      "offset": 2169,
       "length": 5,
       "value": "false"
     },
@@ -12282,14 +12301,14 @@
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 14046,
+      "offset": 14073,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/ActionButtonsView.swift",
       "kind": "FloatLiteral",
-      "offset": 14052,
+      "offset": 14079,
       "length": 3,
       "value": "1.0"
     },
@@ -12590,42 +12609,42 @@
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/PaymentData.swift",
       "kind": "StringLiteral",
-      "offset": 181,
+      "offset": 200,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/PaymentData.swift",
       "kind": "StringLiteral",
-      "offset": 222,
+      "offset": 241,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/PaymentData.swift",
       "kind": "FloatLiteral",
-      "offset": 264,
+      "offset": 283,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/PaymentData.swift",
       "kind": "StringLiteral",
-      "offset": 300,
+      "offset": 319,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/PaymentData.swift",
       "kind": "StringLiteral",
-      "offset": 333,
+      "offset": 352,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/PaymentData.swift",
       "kind": "StringLiteral",
-      "offset": 374,
+      "offset": 393,
       "length": 2,
       "value": "\"\""
     },
@@ -13052,21 +13071,21 @@
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/ContextMenuTVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 458,
+      "offset": 480,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/EnableLocationVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 501,
+      "offset": 525,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/EnableLocationVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 709,
+      "offset": 733,
       "length": 5,
       "value": "false"
     },
@@ -13087,413 +13106,413 @@
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 929,
+      "offset": 946,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1051,
+      "offset": 1068,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1077,
+      "offset": 1094,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2636,
+      "offset": 2653,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2642,
+      "offset": 2659,
       "length": 3,
       "value": "-68"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2685,
+      "offset": 2702,
       "length": 2,
       "value": "68"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3090,
+      "offset": 3107,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3125,
+      "offset": 3142,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3268,
+      "offset": 3285,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3506,
+      "offset": 3523,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3543,
+      "offset": 3560,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3896,
+      "offset": 3913,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3902,
+      "offset": 3919,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3912,
+      "offset": 3929,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3924,
+      "offset": 3941,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 4358,
+      "offset": 4375,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 4443,
+      "offset": 4460,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 4494,
+      "offset": 4511,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5078,
+      "offset": 5095,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 5407,
+      "offset": 5424,
       "length": 21,
       "value": "\"appboxo_color_white\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5546,
+      "offset": 5564,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5695,
+      "offset": 5713,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5701,
+      "offset": 5719,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5711,
+      "offset": 5729,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5724,
+      "offset": 5742,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5793,
+      "offset": 5811,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5841,
+      "offset": 5859,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5880,
+      "offset": 5898,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5917,
+      "offset": 5935,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6173,
+      "offset": 6191,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6250,
+      "offset": 6268,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6497,
+      "offset": 6515,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6543,
+      "offset": 6561,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6575,
+      "offset": 6593,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6756,
+      "offset": 6774,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 6800,
+      "offset": 6818,
       "length": 23,
       "value": "\"appboxo_ic_powered_by\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7024,
+      "offset": 7042,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7220,
+      "offset": 7238,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7289,
+      "offset": 7307,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7409,
+      "offset": 7427,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7656,
+      "offset": 7674,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7724,
+      "offset": 7742,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "FloatLiteral",
-      "offset": 8000,
+      "offset": 8018,
       "length": 4,
       "value": "17.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8055,
+      "offset": 8073,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8115,
+      "offset": 8133,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 8285,
+      "offset": 8303,
       "length": 17,
       "value": "\"appboxo_ic_back\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8353,
+      "offset": 8371,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8359,
+      "offset": 8377,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8369,
+      "offset": 8387,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8381,
+      "offset": 8399,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8551,
+      "offset": 8569,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8615,
+      "offset": 8633,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8787,
+      "offset": 8805,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8819,
+      "offset": 8837,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 18538,
+      "offset": 18556,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 36975,
+      "offset": 36994,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "StringLiteral",
-      "offset": 37001,
+      "offset": 37020,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/MiniAppVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 39341,
+      "offset": 39358,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/views\/LoadingIndicatorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 448,
+      "offset": 476,
       "length": 2,
       "value": "30"
     },
@@ -13724,42 +13743,42 @@
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 14368,
+      "offset": 14369,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 21978,
+      "offset": 21995,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "StringLiteral",
-      "offset": 22244,
+      "offset": 22261,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/utils\/Extensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 22336,
+      "offset": 22353,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 176,
+      "offset": 201,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/viewcontrollers\/SSOViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1380,
+      "offset": 1405,
       "length": 5,
       "value": "false"
     },
