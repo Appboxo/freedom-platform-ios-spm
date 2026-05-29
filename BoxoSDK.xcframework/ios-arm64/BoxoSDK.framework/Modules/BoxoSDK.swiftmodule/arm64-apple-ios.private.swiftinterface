@@ -154,6 +154,7 @@ extension BoxoSDK.MiniappAsyncDelegate {
 }
 @_inheritsConvenienceInitializers @objc(PaymentData) public class PaymentData : ObjectiveC.NSObject {
   @objc public var transactionToken: Swift.String
+  @objc public var orderPaymentId: Swift.String
   @objc public var miniappOrderId: Swift.String
   @objc public var amount: Swift.Double
   @objc public var currency: Swift.String

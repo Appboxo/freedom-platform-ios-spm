@@ -7472,6 +7472,99 @@
           },
           {
             "kind": "Var",
+            "name": "orderPaymentId",
+            "printedName": "orderPaymentId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@BoxoSDK@objc(cs)PaymentData(py)orderPaymentId",
+            "mangledName": "$s7BoxoSDK11PaymentDataC05orderC2IdSSvp",
+            "moduleName": "BoxoSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BoxoSDK@objc(cs)PaymentData(im)orderPaymentId",
+                "mangledName": "$s7BoxoSDK11PaymentDataC05orderC2IdSSvg",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BoxoSDK@objc(cs)PaymentData(im)setOrderPaymentId:",
+                "mangledName": "$s7BoxoSDK11PaymentDataC05orderC2IdSSvs",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7BoxoSDK11PaymentDataC05orderC2IdSSvM",
+                "mangledName": "$s7BoxoSDK11PaymentDataC05orderC2IdSSvM",
+                "moduleName": "BoxoSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "miniappOrderId",
             "printedName": "miniappOrderId",
             "children": [
@@ -11897,7 +11990,7 @@
       "kind": "StringLiteral",
       "offset": 357,
       "length": 8,
-      "value": "\"1.27.7\""
+      "value": "\"1.28.0\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/CustomEvent.swift",
@@ -12350,14 +12443,14 @@
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/js\/JS.swift",
       "kind": "BooleanLiteral",
-      "offset": 8722,
+      "offset": 8781,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/js\/JS.swift",
       "kind": "Dictionary",
-      "offset": 13658,
+      "offset": 13717,
       "length": 3,
       "value": "[]"
     },
@@ -12622,22 +12715,22 @@
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/PaymentData.swift",
+      "kind": "StringLiteral",
+      "offset": 282,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/PaymentData.swift",
       "kind": "FloatLiteral",
-      "offset": 283,
+      "offset": 324,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/PaymentData.swift",
       "kind": "StringLiteral",
-      "offset": 319,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/PaymentData.swift",
-      "kind": "StringLiteral",
-      "offset": 352,
+      "offset": 360,
       "length": 2,
       "value": "\"\""
     },
@@ -12645,6 +12738,13 @@
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/PaymentData.swift",
       "kind": "StringLiteral",
       "offset": 393,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/PaymentData.swift",
+      "kind": "StringLiteral",
+      "offset": 434,
       "length": 2,
       "value": "\"\""
     },

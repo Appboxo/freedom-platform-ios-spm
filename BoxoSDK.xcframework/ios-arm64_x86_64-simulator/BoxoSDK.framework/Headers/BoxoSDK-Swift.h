@@ -481,6 +481,7 @@ typedef SWIFT_ENUM_NAMED(NSInteger, PageAnimation, "PageAnimation", open) {
 SWIFT_CLASS_NAMED("PaymentData")
 @interface PaymentData : NSObject
 @property (nonatomic, copy) NSString * _Nonnull transactionToken;
+@property (nonatomic, copy) NSString * _Nonnull orderPaymentId;
 @property (nonatomic, copy) NSString * _Nonnull miniappOrderId;
 @property (nonatomic) double amount;
 @property (nonatomic, copy) NSString * _Nonnull currency;
@@ -1008,6 +1009,7 @@ typedef SWIFT_ENUM_NAMED(NSInteger, PageAnimation, "PageAnimation", open) {
 SWIFT_CLASS_NAMED("PaymentData")
 @interface PaymentData : NSObject
 @property (nonatomic, copy) NSString * _Nonnull transactionToken;
+@property (nonatomic, copy) NSString * _Nonnull orderPaymentId;
 @property (nonatomic, copy) NSString * _Nonnull miniappOrderId;
 @property (nonatomic) double amount;
 @property (nonatomic, copy) NSString * _Nonnull currency;
