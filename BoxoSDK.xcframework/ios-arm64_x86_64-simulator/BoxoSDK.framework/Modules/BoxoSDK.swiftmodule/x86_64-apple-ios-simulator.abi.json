@@ -11990,7 +11990,7 @@
       "kind": "StringLiteral",
       "offset": 357,
       "length": 8,
-      "value": "\"1.28.0\""
+      "value": "\"1.28.1\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/CustomEvent.swift",
