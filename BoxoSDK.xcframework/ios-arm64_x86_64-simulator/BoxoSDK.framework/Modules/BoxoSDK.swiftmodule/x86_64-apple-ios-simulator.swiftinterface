@@ -113,15 +113,18 @@ import _SwiftConcurrencyShims
   @objc(onCloseMiniapp:) optional func onClose(miniapp: BoxoSDK.Miniapp)
   @objc(onErrorMiniapp:message:) optional func onError(miniapp: BoxoSDK.Miniapp, message: Swift.String)
   @objc(onAuthMiniapp:) optional func onAuth(miniapp: BoxoSDK.Miniapp)
+  @objc(onAuthMiniapp:requiredFields:) optional func onAuth(miniapp: BoxoSDK.Miniapp, requiredFields: [Swift.String])
   @objc(onUserInteraction:) optional func onUserInteraction(miniapp: BoxoSDK.Miniapp)
 }
 public protocol MiniappAsyncDelegate {
   func onAuth(miniapp: BoxoSDK.Miniapp) async
+  func onAuth(miniapp: BoxoSDK.Miniapp, requiredFields: [Swift.String]) async
   func didReceiveCustomEvent(miniapp: BoxoSDK.Miniapp, customEvent: BoxoSDK.CustomEvent) async
   func didReceivePaymentEvent(miniapp: BoxoSDK.Miniapp, paymentData: BoxoSDK.PaymentData) async
 }
 extension BoxoSDK.MiniappAsyncDelegate {
   public func onAuth(miniapp: BoxoSDK.Miniapp) async
+  public func onAuth(miniapp: BoxoSDK.Miniapp, requiredFields: [Swift.String]) async
   public func didReceiveCustomEvent(miniapp: BoxoSDK.Miniapp, customEvent: BoxoSDK.CustomEvent) async
   public func didReceivePaymentEvent(miniapp: BoxoSDK.Miniapp, paymentData: BoxoSDK.PaymentData) async
 }

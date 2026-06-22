@@ -5507,6 +5507,52 @@
           },
           {
             "kind": "Function",
+            "name": "onAuth",
+            "printedName": "onAuth(miniapp:requiredFields:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Miniapp",
+                "printedName": "BoxoSDK.Miniapp",
+                "usr": "c:@M@BoxoSDK@objc(cs)Miniapp"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@BoxoSDK@objc(pl)MiniappDelegate(im)onAuthMiniapp:requiredFields:",
+            "mangledName": "$s7BoxoSDK15MiniappDelegateP6onAuth7miniapp14requiredFieldsyAA0C0C_SaySSGtF",
+            "moduleName": "BoxoSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : BoxoSDK.MiniappDelegate>",
+            "sugared_genericSig": "<Self where Self : BoxoSDK.MiniappDelegate>",
+            "protocolReq": true,
+            "objc_name": "onAuthMiniapp:requiredFields:",
+            "declAttributes": [
+              "Optional",
+              "ObjC"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "onUserInteraction",
             "printedName": "onUserInteraction(miniapp:)",
             "children": [
@@ -5600,6 +5646,47 @@
           },
           {
             "kind": "Function",
+            "name": "onAuth",
+            "printedName": "onAuth(miniapp:requiredFields:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Miniapp",
+                "printedName": "BoxoSDK.Miniapp",
+                "usr": "c:@M@BoxoSDK@objc(cs)Miniapp"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7BoxoSDK20MiniappAsyncDelegateP6onAuth7miniapp14requiredFieldsyAA0C0C_SaySSGtYaF",
+            "mangledName": "$s7BoxoSDK20MiniappAsyncDelegateP6onAuth7miniapp14requiredFieldsyAA0C0C_SaySSGtYaF",
+            "moduleName": "BoxoSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : BoxoSDK.MiniappAsyncDelegate>",
+            "sugared_genericSig": "<Self where Self : BoxoSDK.MiniappAsyncDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "didReceiveCustomEvent",
             "printedName": "didReceiveCustomEvent(miniapp:customEvent:)",
             "children": [
@@ -5684,6 +5771,49 @@
             "declKind": "Func",
             "usr": "s:7BoxoSDK20MiniappAsyncDelegatePAAE6onAuth7miniappyAA0C0C_tYaF",
             "mangledName": "$s7BoxoSDK20MiniappAsyncDelegatePAAE6onAuth7miniappyAA0C0C_tYaF",
+            "moduleName": "BoxoSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : BoxoSDK.MiniappAsyncDelegate>",
+            "sugared_genericSig": "<Self where Self : BoxoSDK.MiniappAsyncDelegate>",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAuth",
+            "printedName": "onAuth(miniapp:requiredFields:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Miniapp",
+                "printedName": "BoxoSDK.Miniapp",
+                "usr": "c:@M@BoxoSDK@objc(cs)Miniapp"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7BoxoSDK20MiniappAsyncDelegatePAAE6onAuth7miniapp14requiredFieldsyAA0C0C_SaySSGtYaF",
+            "mangledName": "$s7BoxoSDK20MiniappAsyncDelegatePAAE6onAuth7miniapp14requiredFieldsyAA0C0C_SaySSGtYaF",
             "moduleName": "BoxoSDK",
             "genericSig": "<τ_0_0 where τ_0_0 : BoxoSDK.MiniappAsyncDelegate>",
             "sugared_genericSig": "<Self where Self : BoxoSDK.MiniappAsyncDelegate>",
@@ -11990,7 +12120,7 @@
       "kind": "StringLiteral",
       "offset": 357,
       "length": 8,
-      "value": "\"1.28.1\""
+      "value": "\"1.29.0\""
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/CustomEvent.swift",
@@ -12254,7 +12384,7 @@
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/sdk\/Miniapp.swift",
       "kind": "StringLiteral",
-      "offset": 2046,
+      "offset": 2295,
       "length": 2,
       "value": "\"\""
     },
@@ -12443,14 +12573,14 @@
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/js\/JS.swift",
       "kind": "BooleanLiteral",
-      "offset": 8781,
+      "offset": 9777,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/freedom-platform-ios-sdk\/freedom-platform-ios-sdk\/BoxoSDK\/BoxoSDK\/source\/js\/JS.swift",
       "kind": "Dictionary",
-      "offset": 13717,
+      "offset": 14713,
       "length": 3,
       "value": "[]"
     },
