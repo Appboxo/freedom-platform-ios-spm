@@ -7,5 +7,4 @@ framework module BoxoSDK {
 
 module BoxoSDK.Swift {
   header "BoxoSDK-Swift.h"
-  requires objc
 }
